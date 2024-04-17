@@ -1,6 +1,6 @@
 # BankPy
 
-Esse é meu projeto de introdução ao Python da [DIO](https://dio.me)
+Esse é meu projeto de introdução ao Python da [DIO](https://dio.me)\
 Este projeto consiste em simular um saque, deposito e extrato de um banco
 
  
